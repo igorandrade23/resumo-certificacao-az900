@@ -1,4 +1,4 @@
-# Microsoft Azure - Configurando uma Instância de Banco de Dados no Azure
+# Lab3 Módulo 1 - Configurando uma Instância de Banco de Dados no Azure
 
 No Azure, um dos principais recursos disponíveis é o SQL Database. Durante o processo de criação desse serviço, é possível configurar diversos parâmetros importantes:
 

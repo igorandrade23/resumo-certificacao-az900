@@ -1,4 +1,4 @@
-# Microsoft Azure - Organização e Classificação de Serviços
+# Lab1 Módulo 1 - Localizando Serviços Por Categoria
 
 Neste laboratório, foi explorado como o portal do Azure organiza seus recursos em diversas categorias, facilitando a localização e o gerenciamento dos serviços. Por exemplo, a categoria **Análises** inclui soluções como Data Factory e Azure Synapse Analytics, enquanto a categoria **Computação** abrange recursos como Azure Quantum e serviços de contêineres.
 
@@ -26,7 +26,3 @@ Além disso, durante as aulas, foram discutidos conceitos essenciais de computa�
 
 - **OpEx (Operational Expenditure):**  
   Diz respeito aos custos operacionais recorrentes, baseados no consumo de produtos e serviços. No modelo OpEx, o pagamento é feito conforme o uso, tornando os gastos mais flexíveis e ajustáveis à demanda.
-
----
-
-Esses conceitos são fundamentais para compreender como o Azure estrutura seus serviços e como as organizações podem planejar o uso e os custos de recursos em nuvem de forma eficiente.

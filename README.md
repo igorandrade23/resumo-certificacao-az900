@@ -10,22 +10,44 @@ A certificação AZ-900 é voltada para quem deseja comprovar conhecimentos intr
 
 Abaixo estão os laboratórios desenvolvidos durante a formação, cada um abordando temas essenciais para o entendimento e aplicação dos recursos do Azure:
 
-Modulo 1:
+### Módulo 1
 
-1. [Explorando Serviços do Azure por Categoria](firstModule/Lab1.md)  
-   Neste laboratório, o aluno aprende a navegar pelo portal do Azure, identificando e agrupando os principais serviços disponíveis, como computação, armazenamento, redes e bancos de dados. O objetivo é tornar o usuário mais familiarizado com a interface e a estrutura dos recursos, facilitando a localização e compreensão das soluções oferecidas.
+1. [Lab1 Módulo 1 - Localizando Serviços Por Categoria](Lab1.md)  
+   _Resumo:_ Explora como o portal do Azure organiza recursos em categorias e apresenta conceitos de modelos de nuvem (pública, privada, híbrida) e tipos de despesas (CapEx, OpEx).
 
-2. [Provisionamento de Máquinas Virtuais no Azure](firstModule/Lab2.md)  
-   O segundo laboratório trata da criação e configuração de máquinas virtuais (VMs) no Azure. São abordados tópicos como escolha de imagens, tamanhos de VM, configuração de redes virtuais e grupos de segurança. O intuito é demonstrar a flexibilidade do Azure para hospedar cargas de trabalho e apresentar boas práticas para o gerenciamento de recursos computacionais em nuvem.
+2. [Lab2 Módulo 1 - Criando Máquinas Virtuais na Azure](Lab2.md)  
+   _Resumo:_ Detalha o processo de criação de máquinas virtuais no Azure, destacando configurações essenciais como assinatura, região, tamanho, segurança e autenticação, além dos benefícios da computação em nuvem.
 
-3. [Configuração de Instâncias de Banco de Dados no Azure](firstModule/Lab3.md)  
-   Este laboratório foca na implementação de bancos de dados utilizando serviços gerenciados do Azure, como o Azure SQL Database. O aluno aprende a criar, configurar e conectar-se a instâncias de banco de dados, além de conhecer benefícios como alta disponibilidade, escalabilidade e segurança dos dados na nuvem.
+3. [Lab3 Módulo 1 - Configurando uma Instância de Banco de Dados no Azure](Lab3.md)  
+   _Resumo:_ Apresenta a criação e configuração de bancos de dados SQL no Azure, incluindo definições de segurança, rede, criptografia e modelos de serviço (IaaS, PaaS, SaaS).
 
-Modulo 2:
-Em construção
+### Módulo 2
 
-Modulo 3:
-Em construção
+4. [Lab4 Módulo 2 - Construindo Arquiteturas no Azure](Lab4.md)  
+   _Resumo:_ Detalha tipos de computação (VMs, contêineres, funções), opções de hospedagem de aplicativos e conceitos de redes virtuais, sub-redes, emparelhamento, DNS, VPN Gateway e ExpressRoute no Azure.
+
+5. [Lab5 Módulo 2 - Computação e Rede](Lab5.md)  
+   _Resumo:_ Aborda criação e configuração de máquinas virtuais, áreas de trabalho virtual e aplicativos de função no Azure, destacando opções de escalabilidade, tipos de VM, balanceamento de carga e práticas recomendadas.
+
+6. [Lab6 Módulo 2 - Dominando o Armazenamento na Azure](Lab6.md)  
+   _Resumo:_ Apresenta conceitos e práticas de armazenamento no Azure, incluindo tipos de contas, opções de redundância, migração de dados e uso de ferramentas como Azure Storage Explorer e AzCopy.
+
+7. [Lab7 Módulo 2 - Entendendo sobre Segurança e Identidade na Azure](Lab7.md)  
+   _Resumo:_ Aborda conceitos de identidade, controle de acesso e segurança no Azure, destacando o uso do Microsoft Entra ID, RBAC, integração com ambientes locais e ferramentas como Defender for Cloud.
+
+### Módulo 3
+
+8. [Lab8 Módulo 3 - Otimizando Custos no Azure](Lab8.md)  
+   _Resumo:_ Apresenta práticas e ferramentas para otimizar custos no Azure, incluindo uso da calculadora de preços, gerenciamento de orçamento, monitoramento de gastos e aplicação de tags para organização de recursos.
+
+9. [Lab9 Módulo 3 - Gerenciando Políticas em Acessos Azure](Lab9.md)  
+   _Resumo:_ Explora ferramentas e práticas de governança e conformidade no Azure, como Service Trust Portal, bloqueios, Microsoft Purview e políticas (Policies), destacando o controle de acesso, proteção de dados e monitoramento de conformidade.
+
+10. [Lab10 Módulo 3 - Ferramentas de Implantação na Nuvem](Lab10.md)  
+    _Resumo:_ Apresenta métodos de criação e gerenciamento de recursos no Azure, destacando o uso do portal, Cloud Shell, PowerShell, automação com Bicep e gerenciamento multicloud com Azure Arc.
+
+11. [Lab11 Módulo 3 - Monitoramento Inteligente com o Azure](Lab11.md)  
+    _Resumo:_ Aborda ferramentas de monitoramento no Azure, como Azure Monitor, Service Health e Advisor, mostrando como acompanhar a saúde, desempenho e recomendações para otimização do ambiente.
 
 ## Recursos Complementares
 

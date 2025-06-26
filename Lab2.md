@@ -1,4 +1,4 @@
-# Microsoft Azure - Criando Máquinas Virtuais no Azure
+# Lab2 Módulo 1 - Criando Máquinas Virtuais na Azure
 
 Neste laboratório, foi demonstrado o processo de criação de uma máquina virtual (VM) no Azure, detalhando as principais opções de configuração disponíveis durante a implantação do recurso. A criação de uma VM envolve a definição de diversos parâmetros importantes para garantir que o recurso atenda às necessidades da aplicação e esteja em conformidade com as melhores práticas de nuvem.
 
@@ -34,5 +34,3 @@ Durante as aulas, também foram discutidos os principais benefícios da computa�
 - **Segurança:** Recursos avançados de proteção de dados e controle de acesso.
 - **Governança:** Ferramentas para gerenciamento, auditoria e conformidade.
 - **Gerenciabilidade:** Facilidade de administração e automação dos recursos.
-
-Esses conceitos são fundamentais para compreender o valor agregado pela nuvem e como tirar o máximo proveito dos recursos do Azure.
